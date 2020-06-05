@@ -1,0 +1,22 @@
+{
+  "name": "ihavenoideawhatthisisbutok",
+  "version": "1.0.0",
+  "description": "hi :3",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"like and sub\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changeno/ihavenoideawhatthisisbutok.git"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "changeno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/changeno/ihavenoideawhatthisisbutok/issues"
+  },
+  "homepage": "https://github.com/changeno/ihavenoideawhatthisisbutok#readme"
+}
